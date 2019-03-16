@@ -2,8 +2,101 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a9e8d77-6ca8-48da-951e-72a37f7997cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/scaffolds/draft.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/scaffolds/page.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/scaffolds/post.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/source/_posts/hello-world.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/source/_posts/zhizi-html.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/source/_posts/我叫栀子.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/languages/de.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/languages/default.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/languages/es.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/languages/fr.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/languages/ja.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/languages/ko.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/languages/nl.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/languages/no.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/languages/pt.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/languages/ru.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/languages/zh-CN.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/languages/zh-TW.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_partial/after-footer.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_partial/archive-post.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_partial/archive.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_partial/article.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_partial/footer.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_partial/gauges-analytics.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_partial/google-analytics.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_partial/head.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_partial/header.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_partial/mobile-nav.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_partial/post/category.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_partial/post/date.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_partial/post/gallery.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_partial/post/nav.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_partial/post/tag.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_partial/post/title.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_partial/sidebar.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_widget/archive.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_widget/category.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_widget/recent_posts.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_widget/tag.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/_widget/tagcloud.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/archive.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/category.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/layout.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/page.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/post.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/layout/tag.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/scripts/fancybox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/css/_extend.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/css/_partial/archive.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/css/_partial/article.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/css/_partial/comment.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/css/_partial/footer.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/css/_partial/header.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/css/_partial/highlight.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/css/_partial/mobile.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/css/_partial/sidebar-aside.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/css/_partial/sidebar-bottom.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/css/_partial/sidebar.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/css/_util/grid.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/css/_util/mixin.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/css/_variables.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/css/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/css/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/css/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/css/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/css/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/css/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/css/style.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/fancybox/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/fancybox/fancybox_loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/fancybox/fancybox_loading@2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/fancybox/fancybox_overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/fancybox/fancybox_sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/fancybox/fancybox_sprite@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/fancybox/helpers/fancybox_buttons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/fancybox/helpers/jquery.fancybox-media.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/fancybox/jquery.fancybox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/fancybox/jquery.fancybox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/fancybox/jquery.fancybox.pack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/landscape/source/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo/themes/yilia" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hexo/themes/yilia/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/hexo/themes/yilia/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -49,8 +142,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hexo/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            <state relative-caret-position="549">
+              <caret line="82" column="18" lean-forward="true" selection-start-line="82" selection-start-column="18" selection-end-line="82" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -148,12 +241,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552717462130</updated>
-      <workItem from="1552717463809" duration="4922000" />
+      <workItem from="1552717463809" duration="6189000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4922000" />
+    <option name="totallyTimeSpent" value="6189000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -207,8 +300,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hexo/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        <state relative-caret-position="549">
+          <caret line="82" column="18" lean-forward="true" selection-start-line="82" selection-start-column="18" selection-end-line="82" selection-end-column="18" />
         </state>
       </provider>
     </entry>
